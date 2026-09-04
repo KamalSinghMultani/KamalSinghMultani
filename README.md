@@ -56,10 +56,10 @@ I enjoy turning messy operational data and repetitive work into systems that are
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🤖 Codex Job Search</h3>
-      <p>A local-first workflow that finds and ranks opportunities, prepares tailored application material, tracks outcomes, and supports interview prep.</p>
-      <p><strong>Codex · Python · Automation · Data workflows</strong></p>
-      <a href="https://github.com/KamalSinghMultani/codex-job-search">See the workflow →</a>
+      <h3>🐝 HiveMind</h3>
+      <p>A real-time team collaboration platform combining chat Honeycombs, threaded discussions, Gemini AI, and a collaborative in-browser development sandbox.</p>
+      <p><strong>Next.js · React · Firebase · Gemini · Monaco · Yjs</strong></p>
+      <a href="https://github.com/CAPSTONE-HiveMind-AICode-Collab/HiveMindApp">Explore HiveMind →</a>
     </td>
     <td width="50%" valign="top">
       <h3>🚦 PRO Portal</h3>
