@@ -80,10 +80,10 @@ I also built a **game-menu-inspired interactive portfolio** with a custom ink, b
   </a>
 </p>
 
-## GitHub snapshot
+## How I like to work
 
 <p align="center">
-  <img width="55%" src="https://github-readme-stats.vercel.app/api?username=KamalSinghMultani&show_icons=true&hide_border=true&bg_color=00000000&title_color=60a5fa&text_color=94a3b8&icon_color=a78bfa&rank_icon=github" alt="Kamal's GitHub stats" />
+  <strong>Think clearly</strong> &nbsp;•&nbsp; <strong>Build practically</strong> &nbsp;•&nbsp; <strong>Document the path</strong> &nbsp;•&nbsp; <strong>Automate the repeatable</strong>
 </p>
 
 ---
